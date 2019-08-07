@@ -19,9 +19,9 @@
 - [ ] Videos Setup
 - [ ] Gatsby 101
 - [ ] DangerJS
-- [ ] Live coding Devigner website
 - [ ] Git OSS Workflow
-- [ ] Performance improvements - CodeOp
+- [ ] Nextjs
+- [ ] Amplify
 - [ ] Gatsby
   - [ ] meat
   - [ ] theme development
@@ -30,6 +30,10 @@
   - [ ] currying
 - [ ] React Tips
   - [ ] abstract components
+  - [ ] controlled vs uncontrolled components
+  - [ ] bracket notation for handleChange events
+  - [ ] different ways to call setState
+  - [ ] stateless vs statefull
 - [ ] CSS Tricks
   - [ ] switch component styling with pseudo selectors
   - [ ] borders with shadows
@@ -38,6 +42,11 @@
 - [ ] React Native Web
   - [ ] setup
   - [ ] accesibillity
+
+### Livestreaming
+
+- [ ] Devigner website
+- [ ] Performance improvements - CodeOp website
 
 ### DangerJS
 
