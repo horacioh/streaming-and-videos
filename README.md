@@ -20,8 +20,6 @@
 - [ ] Gatsby 101
 - [ ] DangerJS
 - [ ] Git OSS Workflow
-- [ ] Nextjs
-- [ ] Amplify
 - [ ] Gatsby
   - [ ] meat
   - [ ] theme development
@@ -42,11 +40,17 @@
 - [ ] React Native Web
   - [ ] setup
   - [ ] accesibillity
+- [ ] Deploy your apps
+  - [ ] Next
+  - [ ] Amplify
+  - [ ] Heroku
 
 ### Livestreaming
 
 - [ ] Devigner website
 - [ ] Performance improvements - CodeOp website
+- [ ] schema customization on gatsby theme instagram
+- [ ] gatsby-theme-shots: Dribbble + behance + pinterest
 
 ### DangerJS
 
