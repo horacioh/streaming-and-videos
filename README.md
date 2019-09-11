@@ -16,7 +16,7 @@
 
 ## Content
 
-- [ ] Videos Setup
+- [x] Videos Setup
 - [ ] Gatsby 101
 - [ ] DangerJS
 - [ ] Git OSS Workflow
@@ -44,6 +44,10 @@
   - [ ] Next
   - [ ] Amplify
   - [ ] Heroku
+
+- [x] What you will learn on the Foundation React Workshop
+- [ ] show RNW + Responsive + SSR Hack
+- [ ] Hamerlin finish video (+ next steps)
 
 ### Livestreaming
 
