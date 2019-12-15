@@ -23,8 +23,6 @@ Gatsby is a blazing fast modern site generator for React. Check out their amazin
 
 ## Building Blocks
 
--
-
 - explain the command `gatsby new`: `gatsby new [SITE_DIRECTORY_NAME] [URL_OF_STARTER_GITHUB_REPO]`
   - If you omit a URL from the end, Gatsby will automatically generate a site for you based on the [default starter](https://github.com/gatsbyjs/gatsby-starter-default).
 - `yarn develop` and open the repo
@@ -69,11 +67,11 @@ Gatsby is a blazing fast modern site generator for React. Check out their amazin
   - typography.js necesita un fichero de configuracion que debemos agregar en `src/utils/typography.js`:
 
   ```js
-  import Typography from 'typography';
-  import fairyGateTheme from 'typography-theme-fairy-gates';
-  const typography = new Typography(fairyGateTheme)
-  export const { scale, rhythm, options } = typography
-  export default typography
+  import Typography from "typography";
+  import fairyGateTheme from "typography-theme-fairy-gates";
+  const typography = new Typography(fairyGateTheme);
+  export const { scale, rhythm, options } = typography;
+  export default typography;
   ```
 
   - `gatsby develop`

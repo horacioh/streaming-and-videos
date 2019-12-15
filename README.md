@@ -41,18 +41,18 @@
   - [ ] setup
   - [ ] accesibillity
 - [ ] Deploy your apps
+
   - [ ] Next
   - [ ] Amplify
   - [ ] Heroku
 
 - [x] What you will learn on the Foundation React Workshop
-- [ ] show RNW + Responsive + SSR Hack
-- [ ] Hamerlin finish video (+ next steps)
+- [x] show RNW + Responsive + SSR Hack
+- [x] Hamerlin finish video (+ next steps)
 
 ### Livestreaming
 
 - [ ] Devigner website
-- [ ] Performance improvements - CodeOp website
 - [ ] schema customization on gatsby theme instagram
 - [ ] gatsby-theme-shots: Dribbble + behance + pinterest
 
