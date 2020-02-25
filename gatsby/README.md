@@ -1,0 +1,30 @@
+# Gatsby Videos
+
+## Lista de Videos actuales
+
+### Introduccion a GatsbyJS
+
+1. Intro a Playlist - [video](https://www.youtube.com/watch?v=iLdNZPpO-pA)
+2. Configuracion Inicial [video](https://www.youtube.com/watch?v=zV2J1esiQM8)
+3. Conociendo el proyecto - [video](https://www.youtube.com/watch?v=HWoyeNOzpR0)
+4. Estilos CSS - [video](https://www.youtube.com/watch?v=r7kerB5QHbk)
+5. CSS en JS (Emotion y Styled Components) - [video](https://www.youtube.com/watch?v=wLtf2hlcEro)
+6. Plugins - [video](https://www.youtube.com/watch?v=a0j6QIsqARg)
+7. Componente Layout - [video](https://www.youtube.com/watch?v=GjWKgpC2aI4)
+8. Data Layer y GraphQL - [video](https://www.youtube.com/watch?v=lphHMldPWl4)
+9. Renderizando Metadatos - [video](https://www.youtube.com/watch?v=FKAlk9ukqY4)
+
+## Temas Pendientes
+
+- [ ] [CSS Modules](https://www.gatsbyjs.org/tutorial/part-two/#css-modules)
+- [ ] [plugin Transformers](https://www.gatsbyjs.org/tutorial/part-six/)
+- [ ] [Plugin Offline](https://www.gatsbyjs.org/docs/resource-handling-and-service-workers/#offline-plugin-gatsby-plugin-offline)
+- [ ] [Crear paginas programaticamente](https://www.gatsbyjs.org/tutorial/part-seven/)
+- [ ] [Preparar tu pagina para produccion](https://www.gatsbyjs.org/tutorial/part-eight/)
+- [ ] [Temas en Gatsby](https://www.gatsbyjs.org/tutorial/theme-tutorials/) (esto puede ser una serie)
+- [ ] [Gatsby Image](https://www.gatsbyjs.org/tutorial/gatsby-image-tutorial/)
+- [ ] [Pagina con autenticacion](https://www.gatsbyjs.org/tutorial/authentication-tutorial/)
+- [ ] [Ecommerce](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
+- [ ] [Gatsby + WordPress](https://www.gatsbyjs.org/tutorial/wordpress-source-plugin-tutorial/)
+- [ ] [Gatsby + Prismic](https://www.gatsbyjs.org/tutorial/prismic-source-graphql-tutorial/)
+- [ ] [Gatsby + Netlify CMS](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/)
