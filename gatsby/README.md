@@ -14,9 +14,12 @@
 8. Data Layer y GraphQL - [video](https://www.youtube.com/watch?v=lphHMldPWl4)
 9. Renderizando Metadatos - [video](https://www.youtube.com/watch?v=FKAlk9ukqY4)
 
+### Otros videos
+
+- CSS Modules - [ivanlhz](https://github.com/ivanlhz) - [video](https://www.youtube.com/watch?v=6CnWMP0mKLQ)
+
 ## Temas Pendientes
 
-- [ ] [CSS Modules](https://www.gatsbyjs.org/tutorial/part-two/#css-modules)
 - [ ] [plugin Transformers](https://www.gatsbyjs.org/tutorial/part-six/)
 - [ ] [Plugin Offline](https://www.gatsbyjs.org/docs/resource-handling-and-service-workers/#offline-plugin-gatsby-plugin-offline)
 - [ ] [Crear paginas programaticamente](https://www.gatsbyjs.org/tutorial/part-seven/)
