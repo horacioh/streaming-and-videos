@@ -20,9 +20,9 @@
 
 ## Temas Pendientes
 
-- [ ] [plugin Transformers](https://www.gatsbyjs.org/tutorial/part-six/)
+- [ ] [plugin Transformers](https://www.gatsbyjs.org/tutorial/part-six/)(ivanlhz)
 - [ ] [Plugin Offline](https://www.gatsbyjs.org/docs/resource-handling-and-service-workers/#offline-plugin-gatsby-plugin-offline)
-- [ ] [Crear paginas programaticamente](https://www.gatsbyjs.org/tutorial/part-seven/)
+- [ ] [Crear paginas programaticamente](https://www.gatsbyjs.org/tutorial/part-seven/)(ivanlhz)
 - [ ] [Preparar tu pagina para produccion](https://www.gatsbyjs.org/tutorial/part-eight/)
 - [ ] [Temas en Gatsby](https://www.gatsbyjs.org/tutorial/theme-tutorials/) (esto puede ser una serie)
 - [ ] [Gatsby Image](https://www.gatsbyjs.org/tutorial/gatsby-image-tutorial/)
@@ -30,4 +30,4 @@
 - [ ] [Ecommerce](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
 - [ ] [Gatsby + WordPress](https://www.gatsbyjs.org/tutorial/wordpress-source-plugin-tutorial/)
 - [ ] [Gatsby + Prismic](https://www.gatsbyjs.org/tutorial/prismic-source-graphql-tutorial/)
-- [ ] [Gatsby + Netlify CMS](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/)
+- [ ] [Gatsby + Netlify CMS](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/)(ivanlhz)
