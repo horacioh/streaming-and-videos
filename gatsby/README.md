@@ -17,12 +17,15 @@
 ### Otros videos
 
 - CSS Modules - [ivanlhz](https://github.com/ivanlhz) - [video](https://www.youtube.com/watch?v=6CnWMP0mKLQ)
+- [Gatsby + Netlify CMS] - [ivanlhz](https://github.com/ivanlhz) - [video](https://www.youtube.com/watch?v=P9orN5-X_oU)
+- Crear paginas programaticamente - [ivanlhz](https://github.com/ivanlhz) - [video](https://www.youtube.com/watch?v=RlFAdtVaFig)
+- Agrega Temas con TailwindCSS - Horacio - [video](https://www.youtube.com/watch?v=vXzQFrr-n6U)
 
 ## Temas Pendientes
 
 - [ ] [plugin Transformers](https://www.gatsbyjs.org/tutorial/part-six/)(ivanlhz)
 - [ ] [Plugin Offline](https://www.gatsbyjs.org/docs/resource-handling-and-service-workers/#offline-plugin-gatsby-plugin-offline)
-- [ ] [Crear paginas programaticamente](https://www.gatsbyjs.org/tutorial/part-seven/)(ivanlhz)
+
 - [ ] [Preparar tu pagina para produccion](https://www.gatsbyjs.org/tutorial/part-eight/)
 - [ ] [Temas en Gatsby](https://www.gatsbyjs.org/tutorial/theme-tutorials/) (esto puede ser una serie)
 - [ ] [Gatsby Image](https://www.gatsbyjs.org/tutorial/gatsby-image-tutorial/)
@@ -30,4 +33,3 @@
 - [ ] [Ecommerce](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
 - [ ] [Gatsby + WordPress](https://www.gatsbyjs.org/tutorial/wordpress-source-plugin-tutorial/)
 - [ ] [Gatsby + Prismic](https://www.gatsbyjs.org/tutorial/prismic-source-graphql-tutorial/)
-- [ ] [Gatsby + Netlify CMS](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/)(ivanlhz)
