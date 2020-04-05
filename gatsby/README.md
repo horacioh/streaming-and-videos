@@ -33,3 +33,4 @@
 - [ ] [Ecommerce](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
 - [ ] [Gatsby + WordPress](https://www.gatsbyjs.org/tutorial/wordpress-source-plugin-tutorial/)
 - [ ] [Gatsby + Prismic](https://www.gatsbyjs.org/tutorial/prismic-source-graphql-tutorial/)
+- [ ] [Deployment a heroku con Gatsby y mas](https://www.gatsbyjs.org/docs/deploying-and-hosting/)
