@@ -73,7 +73,14 @@ export default () => (
 ```
 
 - ahora pasamos a crear nuestro servivcio de autenticacion. para ello crearemos el archivo `auth.js` en `src/services`.
+- aqui crearemos una serie de funciones relacionadas con la autenticacion.
+- `isBrowser` nos devuelve verdadero cuando el objeto window esta definido, esto es importante para asegurarnos que tenemos localstorage disponible
+- `getUser` nos devuelve un usuario si lo tenemos guardado en localStorage
+- con `setUser` guardamos la informacion del usuario logado en localStorage
+- `handleLogin` es la funcion que nos ayuda a simular un login convencional.
 - por ser un tutorial corto, usaremos un sistema de autenticacion simple con las claves codificadas en el mismo fichero, pero esto no es recomendado para una aplicacion en produccion
+- `isLoggedIn()` que nos devuelve verdadero si hay un usuario logado.
+- y por ultimo tenemos `logout` que borra toda la informacion del usuario de localstorage, y ejecuta cualquier funcion llamada callback pasada como parametro
 - para mas informacion de como agregar autenticacion realmente en una aplicacion Gatsby, puedes ver esta otra guia mas detallada (https://www.gatsbyjs.org/docs/building-a-site-with-authentication/)
 
 ```js
