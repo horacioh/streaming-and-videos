@@ -9,7 +9,7 @@ Gatsby is a blazing fast modern site generator for React. Check out their amazin
 - Styling in Gatsby [🔗](#styling-in-gatsby)
 - Gatbsy Plugins [🔗](#gatsby-plugins)
 - Layout [🔗](#layout)
-- Fata en Gatsby [🔗](#data-in-gatsby)
+- Data en Gatsby [🔗](#data-in-gatsby)
 - Gatbsy Themes [🔗](#gatsby-themes)
 
 ## Setup
@@ -90,3 +90,18 @@ Gatsby is a blazing fast modern site generator for React. Check out their amazin
 - Explicar como Gatsby usa GraphQL para obtener informacion
 
 ## Gatsby Themes
+
+## Deploy your Gatsby site
+
+- gatsby new ejemplo-produccion
+- open package json
+- mostrar los comandos
+- `yarn build`
+- `yarn serve`
+- audit lighthouse
+- open gatsby-config
+- gatsby-plugin-manifest
+- gatsby-plugin-offline
+- mostrarlos en el package.json
+- metadatos con react-helmet
+- mostrar SEO component. metadatos basicos ya seteados. tambien puedes pasarle props (mostrar props)
